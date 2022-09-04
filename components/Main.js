@@ -52,7 +52,7 @@ const Main = () => {
           <h2>Explore something</h2>
           <p>
             Swag vexillologist forage cronut cliche occupy thundercats you
-            probably haven't heard of them pug +1 jianbing banjo gatekeep.
+            probably have not heard of them pug +1 jianbing banjo gatekeep.
             Quinoa venmo williamsburg chambray. Big mood pitchfork
           </p>
         </section>
